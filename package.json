@@ -1,0 +1,24 @@
+{
+  "name": "desktopsharing",
+  "version": "1.0.0",
+  "description": "Simple Desktop Sharing Programm with WebRTC",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianGubler/DesktopSharing.git"
+  },
+  "keywords": [],
+  "author": "Florian Gubler, Oliver Janka, Nino Arisona, Robin Lehmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorianGubler/DesktopSharing/issues"
+  },
+  "homepage": "https://github.com/FlorianGubler/DesktopSharing#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
