@@ -19,6 +19,11 @@
   },
   "homepage": "https://github.com/FlorianGubler/DesktopSharing#readme",
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "net": "^1.0.2",
+    "websocket": "^1.0.34"
+  },
+  "dependencies": {
+    "http": "0.0.1-security"
   }
 }
